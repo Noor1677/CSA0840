@@ -19,4 +19,3 @@ if __name__ == '__main__':
 	str =input("S=")
 	
 	addFrequencyToCharacter([i for i in str])
-
